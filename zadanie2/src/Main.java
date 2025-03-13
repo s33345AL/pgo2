@@ -34,6 +34,6 @@ public class Main {
                 cenakoncowa = 0;
             }
         }
-        System.out.println(cenakoncowa + " " + znizka);
+        System.out.println("Dane: " + " "+ "Wiek: " + wiek + " " + "Cena biletu: " + cenakoncowa + " " + "Zniżka: " + znizka);
     }
 }
